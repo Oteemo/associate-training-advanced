@@ -1,6 +1,8 @@
 # Nginx Docker & Kubernetes Lab - Progress Checklist
 
 Use this checklist to track your progress through the lab. Check off items as you complete them.
+You can pull this repo into your IDE and check things off as you progress, once you push it to Github it will show up with the parts you've marked off. Also, feel free to mark and make notes as you need to as long as you don't iupload this into the Main branch. You can clone this IDE and submit everything into your personal GitHub Account.
+
 
 ---
 
