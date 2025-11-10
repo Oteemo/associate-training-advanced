@@ -6,11 +6,11 @@ Use this checklist to track your progress through the lab. Check off items as yo
 
 ## Pre-Lab Setup
 
-- [ ] Docker installed and running on local machine
-- [ ] kubectl installed and configured
-- [ ] Kubernetes cluster accessible (minikube, kind, or cloud cluster)
-- [ ] Project directory structure created
-- [ ] Text editor/IDE ready for development
+- [X] Docker installed and running on local machine
+- [X] kubectl installed and configured
+- [X] Kubernetes cluster accessible (minikube, kind, or cloud cluster)
+- [X] Project directory structure created
+- [X] Text editor/IDE ready for development
 
 ---
 
