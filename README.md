@@ -34,6 +34,7 @@ Before starting this lab, you should have:
 - Basic understanding of networking concepts (ports, protocols, DNS)
 - Access to a machine with Docker installed
 - Access to a Kubernetes cluster (local or cloud-based)
+- If you do not have experience with these tools, research them as you work on this project
 
 ---
 
